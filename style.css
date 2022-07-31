@@ -16,6 +16,13 @@
     padding: 0;
 
 }
+.bold{
+  color: #f7770f;
+}
+p{
+  font-family: 'playerp2';
+  font-size: 3vh;
+}
 body{
     background-color: #001122;
 }
@@ -264,6 +271,7 @@ li{
 .floaticon{
     height: 50px;
     width: auto;
+    padding-right: 10px;
     float: left;
 }
   /* Caroussel 1*/
